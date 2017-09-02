@@ -1,4 +1,2 @@
-# zeno
-# zeno
-# zeno
-# zeno
+# Zeno
+An Interactive Educational Robotics Platform
