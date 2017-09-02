@@ -1,0 +1,11 @@
+Zeno	KEYWORD1
+setArmMotor	KEYWORD2
+moveForward	KEYWORD2
+stopMoving	KEYWORD2
+motorA	KEYWORD2
+motorB	KEYWORD2
+motorC	KEYWORD2
+motorD	KEYWORD2
+moveAtAngle	KEYWORD2
+angleSensorReading	KEYWORD2
+accelSensorReading	KEYWORD2
