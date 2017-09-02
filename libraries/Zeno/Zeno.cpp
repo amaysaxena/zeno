@@ -1,16 +1,15 @@
 /*
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-  #																		#
-  #		Zeno.cpp - Library for the Zeno educational						#
-  #		robotics platform.												#
-  #		Read included example files in the /examples directory			#
-  # 	for sample usage.												#
-  #																		#
-  #		Created by Amay S. Saxena, March 31, 2017.						#
-  #		Released into the public domain.								#
-  #																		#
-  #		FAQ:															#
-  #																		#
+  #									#									
+  #	    Zeno.cpp - Library for the Zeno educational		        #
+  #	    robotics platform.					        #							
+  #	    Read included example files in the /examples directory      #
+  #         for sample usage.					        #							
+  #									#									
+  #         Created by Amay S. Saxena, March 31, 2017.		        #				
+  #	    Released into the public domain.			        #					
+  #									#																						#
+  #									#									
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 */
 
@@ -311,10 +310,3 @@
 	  }
 	  return readString;
 	}
-
-    void Zeno :: accelSensorReading() {
-    /*  Return a sensor reading from the accelerometer.
-     */
-
-    }
-
