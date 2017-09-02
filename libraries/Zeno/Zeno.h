@@ -1,7 +1,7 @@
 /*
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   #                                                                     #
-  #     Zeno.cpp - Library for the Zeno educational             #
+  #     Zeno.cpp - Library for the Zeno educational                     #
   #     robotics platform.                                              #
   #     Read included example files in the /examples directory          #
   #     for sample usage.                                               #
@@ -9,7 +9,7 @@
   #     Created by Amay S. Saxena, March 31, 2017.                      #
   #     Released into the public domain.                                #
   #                                                                     #
-  #     FAQ:                                                            #
+  #                                                                     #
   #                                                                     #
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 */
@@ -150,4 +150,4 @@ class Zeno {
     Adafruit_MotorShield AFMS;
 };
 
-#endif
+
